@@ -4,25 +4,25 @@ const chalk = require('chalk')
 
 global.botname = "Dineth power bot" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
-global.author = "𝙋𝙄𝙆𝘼"  
+global.author = "Dineth"  
 global.packname = "DINETH✯POWER✯𝘽𝙊𝙏"  
-global.myweb = "https://github.com/PikaBotz" // You can put any link 
-global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
-global.headerText = "Anya by Pika" // text for header of menu         
-global.DocumentTitle = "MASTER⚔️PIKA" 
+global.myweb = "https://github.com/dinethBotz" // You can put any link 
+global.waterMark = "×͜× Dineth ✘ power™ ✓" // Your own watermark 
+global.headerText = "dineth power " // text for header of menu         
+global.DocumentTitle = "dineth⚔️power" 
 
 
 global.ownername = "DINETH POWER_BOT"   // Owner name //        
 global.ownernumber = ['0741450573'] 
-global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
+global.socialm = "𝗜𝗻𝘀𝘁𝗮 : dineth" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
-global.region = "India" // your country name
-global.state = "Assam" // your state name
+global.region = "sri lanka" // your country name
+global.state = "sandaruvan" // your state name
 global.district = "Dibrugarh" // your district name
 global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "3.69_pika" // Your insta ID
-global.email = "example@exmaple.com" // put your email here
+global.instagramId = "dineth.51" // Your insta ID
+global.email = "exampldinethrasmika930@gmail.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
@@ -33,11 +33,11 @@ global.prefa = ['-','🥵','🔥']
 
 //--------Random bot name for Info section--------\\
 name16 = "𓄂⍣⃝ DINETH_POWER𓆩×͜×𓆪ꪾ️"
-name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
-name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
+name17 = "*ΛDineth 𓆩×͜×𓆪ꪾ*"
+name18 = "*ΛDineth 𓆩×͜×𓆪ꪾ*"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
+footer1 = `𓄂⍣⃝dineth ꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
 footer2 = `Λ Dineth_powerㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
 
 //--------Left message "Nikal msg"--------\\
